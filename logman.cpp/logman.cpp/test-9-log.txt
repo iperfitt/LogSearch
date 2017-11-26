@@ -1,0 +1,5 @@
+00:00:00:00:00|dog cat lamma zebra|0
+00:00:00:00:00|dog cat| LAMmA ZEBra
+00:00:00:00:00|LAMMA ZEBRA DOG CAT|#$%^&*()
+00:00:00:00:00|LAMMA zebrA DoG CAt7890|456789cat56789cat#$%^&*CAt#$%^&*(
+00:00:00:00:00|dog cat|zebra %^&*() llama

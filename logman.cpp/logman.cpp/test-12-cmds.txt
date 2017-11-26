@@ -1,0 +1,4 @@
+k dog
+k dog dog
+r
+q

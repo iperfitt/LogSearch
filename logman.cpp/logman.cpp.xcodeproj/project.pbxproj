@@ -1,0 +1,340 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A958682E1DEA9BFD0035F0E4 /* logman.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A9C7CB6B1DC92B850031CA83 /* logman.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		A9C7CB661DC92B850031CA83 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		A958682C1DEA99640035F0E4 /* practice.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = practice.cpp; sourceTree = SOURCE_ROOT; };
+		A992D0181DDD50710084D33D /* test-0-log.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "test-0-log.txt"; sourceTree = "<group>"; };
+		A992D0191DDD50AE0084D33D /* test-0-cmds.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "test-0-cmds.txt"; sourceTree = "<group>"; };
+		A992D01A1DDD51770084D33D /* test-1-cmds.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "test-1-cmds.txt"; sourceTree = "<group>"; };
+		A992D01B1DDD51860084D33D /* test-1-log.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "test-1-log.txt"; sourceTree = "<group>"; };
+		A992D01C1DDD51DE0084D33D /* test-2-log.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "test-2-log.txt"; sourceTree = "<group>"; };
+		A992D01D1DDD51F20084D33D /* test-2-cmds.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "test-2-cmds.txt"; sourceTree = "<group>"; };
+		A992D01E1DDD52340084D33D /* test-3-log.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "test-3-log.txt"; sourceTree = "<group>"; };
+		A992D01F1DDD52480084D33D /* test-3-cmds.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "test-3-cmds.txt"; sourceTree = "<group>"; };
+		A992D0201DDD52AE0084D33D /* test-4-cmds.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "test-4-cmds.txt"; sourceTree = "<group>"; };
+		A992D0211DDD52C10084D33D /* test-4-log.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "test-4-log.txt"; sourceTree = "<group>"; };
+		A992D0221DDD52EA0084D33D /* test-5-log.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "test-5-log.txt"; sourceTree = "<group>"; };
+		A992D0231DDD52FD0084D33D /* test-5-cmds.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "test-5-cmds.txt"; sourceTree = "<group>"; };
+		A992D0241DDD531F0084D33D /* test-6-log.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "test-6-log.txt"; sourceTree = "<group>"; };
+		A992D0251DDD532F0084D33D /* test-6-cmds.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "test-6-cmds.txt"; sourceTree = "<group>"; };
+		A992D0261DDD53670084D33D /* test-7-log.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "test-7-log.txt"; sourceTree = "<group>"; };
+		A992D0271DDD53780084D33D /* test-7-cmds.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "test-7-cmds.txt"; sourceTree = "<group>"; };
+		A992D0281DDD55610084D33D /* test-8-cmds.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "test-8-cmds.txt"; sourceTree = "<group>"; };
+		A992D0291DDD55DE0084D33D /* test-8-log.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "test-8-log.txt"; sourceTree = "<group>"; };
+		A992D02A1DDD576C0084D33D /* test-9-log.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "test-9-log.txt"; sourceTree = "<group>"; };
+		A992D02B1DDD577C0084D33D /* test-9-cmds.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "test-9-cmds.txt"; sourceTree = "<group>"; };
+		A992D02C1DDD58240084D33D /* test-10-log.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "test-10-log.txt"; sourceTree = "<group>"; };
+		A992D02D1DDD58320084D33D /* test-10-cmds.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "test-10-cmds.txt"; sourceTree = "<group>"; };
+		A992D02E1DDD588F0084D33D /* test-11-log.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "test-11-log.txt"; sourceTree = "<group>"; };
+		A992D02F1DDD58A20084D33D /* test-11-cmds.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "test-11-cmds.txt"; sourceTree = "<group>"; };
+		A992D0301DDD58EE0084D33D /* test-12-log.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "test-12-log.txt"; sourceTree = "<group>"; };
+		A992D0311DDD59080084D33D /* test-12-cmds.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "test-12-cmds.txt"; sourceTree = "<group>"; };
+		A992D0321DDD59790084D33D /* test-13-log.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "test-13-log.txt"; sourceTree = "<group>"; };
+		A992D0331DDD59CE0084D33D /* test-13-cmds.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "test-13-cmds.txt"; sourceTree = "<group>"; };
+		A992D0341DDD59F00084D33D /* test-14-log.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "test-14-log.txt"; sourceTree = "<group>"; };
+		A992D0351DDD5A090084D33D /* test-14-cmds.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "test-14-cmds.txt"; sourceTree = "<group>"; };
+		A992D0361DDD5BEB0084D33D /* test-15-cmds.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "test-15-cmds.txt"; sourceTree = "<group>"; };
+		A992D0371DDD5BFA0084D33D /* test-15-log.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "test-15-log.txt"; sourceTree = "<group>"; };
+		A992D0381DDD5C090084D33D /* test-16-log.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "test-16-log.txt"; sourceTree = "<group>"; };
+		A992D0391DDD5C200084D33D /* test-16-cmds.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "test-16-cmds.txt"; sourceTree = "<group>"; };
+		A992D03A1DDD5C650084D33D /* test-17-log.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "test-17-log.txt"; sourceTree = "<group>"; };
+		A992D03B1DDD5C8B0084D33D /* test-17-cmds.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "test-17-cmds.txt"; sourceTree = "<group>"; };
+		A992D03C1DDE34A40084D33D /* kedgeinputs.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = kedgeinputs.txt; sourceTree = "<group>"; };
+		A992D03E1DDE3E230084D33D /* tedgeinputs */ = {isa = PBXFileReference; lastKnownFileType = text; path = tedgeinputs; sourceTree = "<group>"; };
+		A992D03F1DDE44810084D33D /* redgeinputs */ = {isa = PBXFileReference; lastKnownFileType = text; path = redgeinputs; sourceTree = "<group>"; };
+		A992D0401DDE48230084D33D /* sample-all-cmds.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "sample-all-cmds.txt"; sourceTree = "<group>"; };
+		A992D0411DDE4D970084D33D /* sample-log.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "sample-log.txt"; sourceTree = "<group>"; };
+		A992D0421DDE77E40084D33D /* blank.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = blank.txt; sourceTree = "<group>"; };
+		A9C7CB681DC92B850031CA83 /* logman.cpp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = logman.cpp; sourceTree = BUILT_PRODUCTS_DIR; };
+		A9C7CB6B1DC92B850031CA83 /* logman.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = logman.cpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A9C7CB651DC92B850031CA83 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A9C7CB5F1DC92B850031CA83 = {
+			isa = PBXGroup;
+			children = (
+				A9C7CB6A1DC92B850031CA83 /* logman.cpp */,
+				A9C7CB691DC92B850031CA83 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A9C7CB691DC92B850031CA83 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A9C7CB681DC92B850031CA83 /* logman.cpp */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A9C7CB6A1DC92B850031CA83 /* logman.cpp */ = {
+			isa = PBXGroup;
+			children = (
+				A9C7CB6B1DC92B850031CA83 /* logman.cpp */,
+				A992D0411DDE4D970084D33D /* sample-log.txt */,
+				A992D0401DDE48230084D33D /* sample-all-cmds.txt */,
+				A992D03F1DDE44810084D33D /* redgeinputs */,
+				A992D03E1DDE3E230084D33D /* tedgeinputs */,
+				A992D03C1DDE34A40084D33D /* kedgeinputs.txt */,
+				A992D0181DDD50710084D33D /* test-0-log.txt */,
+				A992D0191DDD50AE0084D33D /* test-0-cmds.txt */,
+				A992D01B1DDD51860084D33D /* test-1-log.txt */,
+				A992D01A1DDD51770084D33D /* test-1-cmds.txt */,
+				A992D01C1DDD51DE0084D33D /* test-2-log.txt */,
+				A992D01D1DDD51F20084D33D /* test-2-cmds.txt */,
+				A992D01E1DDD52340084D33D /* test-3-log.txt */,
+				A992D01F1DDD52480084D33D /* test-3-cmds.txt */,
+				A992D0201DDD52AE0084D33D /* test-4-cmds.txt */,
+				A992D0211DDD52C10084D33D /* test-4-log.txt */,
+				A992D0221DDD52EA0084D33D /* test-5-log.txt */,
+				A992D0231DDD52FD0084D33D /* test-5-cmds.txt */,
+				A992D0241DDD531F0084D33D /* test-6-log.txt */,
+				A992D0251DDD532F0084D33D /* test-6-cmds.txt */,
+				A992D0261DDD53670084D33D /* test-7-log.txt */,
+				A992D0271DDD53780084D33D /* test-7-cmds.txt */,
+				A992D0281DDD55610084D33D /* test-8-cmds.txt */,
+				A992D0291DDD55DE0084D33D /* test-8-log.txt */,
+				A992D02A1DDD576C0084D33D /* test-9-log.txt */,
+				A992D02B1DDD577C0084D33D /* test-9-cmds.txt */,
+				A992D02C1DDD58240084D33D /* test-10-log.txt */,
+				A992D02D1DDD58320084D33D /* test-10-cmds.txt */,
+				A992D02E1DDD588F0084D33D /* test-11-log.txt */,
+				A992D02F1DDD58A20084D33D /* test-11-cmds.txt */,
+				A992D0301DDD58EE0084D33D /* test-12-log.txt */,
+				A992D0311DDD59080084D33D /* test-12-cmds.txt */,
+				A992D0321DDD59790084D33D /* test-13-log.txt */,
+				A992D0331DDD59CE0084D33D /* test-13-cmds.txt */,
+				A992D0341DDD59F00084D33D /* test-14-log.txt */,
+				A992D0351DDD5A090084D33D /* test-14-cmds.txt */,
+				A992D0361DDD5BEB0084D33D /* test-15-cmds.txt */,
+				A992D0371DDD5BFA0084D33D /* test-15-log.txt */,
+				A992D0381DDD5C090084D33D /* test-16-log.txt */,
+				A992D0391DDD5C200084D33D /* test-16-cmds.txt */,
+				A992D03A1DDD5C650084D33D /* test-17-log.txt */,
+				A992D03B1DDD5C8B0084D33D /* test-17-cmds.txt */,
+				A992D0421DDE77E40084D33D /* blank.txt */,
+				A958682C1DEA99640035F0E4 /* practice.cpp */,
+			);
+			path = logman.cpp;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A9C7CB671DC92B850031CA83 /* logman.cpp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A9C7CB6F1DC92B850031CA83 /* Build configuration list for PBXNativeTarget "logman.cpp" */;
+			buildPhases = (
+				A9C7CB641DC92B850031CA83 /* Sources */,
+				A9C7CB651DC92B850031CA83 /* Frameworks */,
+				A9C7CB661DC92B850031CA83 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = logman.cpp;
+			productName = logman.cpp;
+			productReference = A9C7CB681DC92B850031CA83 /* logman.cpp */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A9C7CB601DC92B850031CA83 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0800;
+				ORGANIZATIONNAME = logman.cpp;
+				TargetAttributes = {
+					A9C7CB671DC92B850031CA83 = {
+						CreatedOnToolsVersion = 8.0;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = A9C7CB631DC92B850031CA83 /* Build configuration list for PBXProject "logman.cpp" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = A9C7CB5F1DC92B850031CA83;
+			productRefGroup = A9C7CB691DC92B850031CA83 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A9C7CB671DC92B850031CA83 /* logman.cpp */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A9C7CB641DC92B850031CA83 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A958682E1DEA9BFD0035F0E4 /* logman.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		A9C7CB6D1DC92B850031CA83 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		A9C7CB6E1DC92B850031CA83 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		A9C7CB701DC92B850031CA83 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		A9C7CB711DC92B850031CA83 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A9C7CB631DC92B850031CA83 /* Build configuration list for PBXProject "logman.cpp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A9C7CB6D1DC92B850031CA83 /* Debug */,
+				A9C7CB6E1DC92B850031CA83 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A9C7CB6F1DC92B850031CA83 /* Build configuration list for PBXNativeTarget "logman.cpp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A9C7CB701DC92B850031CA83 /* Debug */,
+				A9C7CB711DC92B850031CA83 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A9C7CB601DC92B850031CA83 /* Project object */;
+}

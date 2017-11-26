@@ -1,0 +1,3 @@
+12:15:20:56:23|UI-PANE1|Window received focus.
+01:07:08:12:00|UI-PANE2|Window received focus.
+12:15:20:56:50|UI-PANE1|Click event served.
